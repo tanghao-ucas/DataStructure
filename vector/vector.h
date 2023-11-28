@@ -36,6 +36,6 @@ void vector_remove(struct vector *vec, void *elem, int pos);
 /*
  * vector element search
  */
-void*vector_find(struct vector *vec, int pos);
+void* vector_find(struct vector *vec, int pos);
 
 #endif
